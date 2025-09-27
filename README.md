@@ -21,9 +21,15 @@
 <!-- CONNECT -->
 ### Connect with me
 <p align="center">
-<a href="https://twitter.com/fajispm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30"/></a>
-<a href="https://linkedin.com/in/fajispm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>
-<a href="mailto:pmfajis@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="30" height="30"/></a>
+  <a href="https://twitter.com/fajispm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.14.0/icons/twitter.svg" width="30" height="30" style="fill:#1DA1F2"/>
+  </a>
+  <a href="https://linkedin.com/in/fajispm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.14.0/icons/linkedin.svg" width="30" height="30" style="fill:#0A66C2"/>
+  </a>
+  <a href="mailto:pmfajis@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.14.0/icons/gmail.svg" width="30" height="30" style="fill:#D14836"/>
+  </a>
 </p>
 
 <!-- TECH STACK -->
