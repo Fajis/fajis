@@ -27,12 +27,11 @@
   <a href="https://linkedin.com/in/fajispm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-<p>
    <a href="mailto:pmfajis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 <!-- WEBSITES -->
 ### 🌐 Websites
@@ -43,10 +42,14 @@
   <a href="https://live.talk4fun.net" target="_blank">
     <img src="https://img.shields.io/badge/Chat-live.talk4fun.net-FF6F61?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/fajis" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px; width: auto;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
   </a>
 </p>
+
 
 <!-- TECH STACK -->
 ### 🛠️ Technologies & Tools
