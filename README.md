@@ -50,18 +50,23 @@
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50"/>
 </p>
 
-<!-- GITHUB STATS -->
-### 📊 GitHub Stats
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false&border_color=79A500&icon_color=79A500&text_color=ffffff&bg_color=1e1e2f&card_height=180" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&hide_border=false&border_color=79A500&text_color=ffffff&bg_color=1e1e2f&langs_count=6&card_height=180" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false&hide_border=false&border_color=79A500&icon_color=79A500&text_color=ffffff&bg_color=1e1e2f" alt="Fajis GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&hide_border=false&border_color=79A500&text_color=ffffff&bg_color=1e1e2f&langs_count=6" alt="Top Languages" width="49%"/>
 </p>
 
 <!-- Top Repos Pinned -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-1&theme=radical&border_color=79A500" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-2&theme=radical&border_color=79A500" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-3&theme=radical&border_color=79A500" width="32%" />
+</p>
+
+<!-- Top Repos Pinned -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=fajis&theme=radical&border_color=79A500" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-2&theme=radical&border_color=79A500" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-3&theme=radical&border_color=79A500" width="32%" />
 </p>
