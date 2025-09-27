@@ -5,7 +5,7 @@
 
 <!-- FUN GIF -->
 <p align="center">
-<img src="https://c.tenor.com/6Q7d3A4k2cEAAAAC/work-computer.gif" height="240" width="370">
+  <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 </p>
 
 <!-- LINE -->
