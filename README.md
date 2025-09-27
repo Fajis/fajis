@@ -19,7 +19,7 @@
 - ⚡ Fun Fact: I speak **Malayalam, English, Hindi (basics)**
 
 <!-- CONNECT -->
-### <img src="https://c.tenor.com/8cLZjCh28F0AAAAC/animated-computer.gif" width="30"/> Connect with Me
+### <img src="https://raw.githubusercontent.com/fajis/fajis/main/assets/connect.gif" width="30"/> Connect with me
 <p align="center">
   <a href="https://twitter.com/fajispm" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
