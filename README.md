@@ -17,7 +17,7 @@
 
 <!-- ABOUT ME -->
 ### 🧑‍💻 About Me
-- 🏦 Senior Software Engineer – Backend & Mobile Systems
+- 🏦 Full-Stack Software Developer – Backend & Mobile Systems
 - 💻 Daily: **PHP, JavaScript, React Native, MySQL**
 - 🌱 Learning: **Redux, TypeScript, Advanced React Native**
 - ⚡ Fun Fact: I speak **Malayalam, English, Hindi**
