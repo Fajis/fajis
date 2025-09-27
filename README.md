@@ -22,13 +22,13 @@
 ### Connect with me
 <p align="center">
   <a href="https://twitter.com/fajispm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.14.0/icons/twitter.svg" width="30" height="30" style="fill:#1DA1F2"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/fajispm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.14.0/icons/linkedin.svg" width="30" height="30" style="fill:#0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pmfajis@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.14.0/icons/gmail.svg" width="30" height="30" style="fill:#D14836"/>
+  <a href="mailto:pmfajis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
