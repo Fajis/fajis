@@ -52,10 +52,12 @@
 
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false&border_color=79A500&icon_color=79A500&text_color=ffffff&bg_color=1e1e2f&card_height=200" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&hide_border=false&border_color=79A500&text_color=ffffff&bg_color=1e1e2f&langs_count=6&card_height=200" width="49%" />
-</p>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200" width="400"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&card_height=200" width="400"/></td>
+</tr>
+</table>
 
 <!-- Top Repos Pinned 
 <p align="center">
