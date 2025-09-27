@@ -32,6 +32,17 @@
   </a>
 </p>
 
+<!-- WEBSITES -->
+### 🌐 Websites
+<p align="center">
+  <a href="https://fajis.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-fajis.is--a.dev-79A500?style=for-the-badge&logo=internet&logoColor=white"/>
+  </a>
+  <a href="https://live.talk4fun.net" target="_blank">
+    <img src="https://img.shields.io/badge/Chat-live.talk4fun.net-FF6F61?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 <!-- TECH STACK -->
 ### 🛠️ Technologies & Tools
 <p align="center">
