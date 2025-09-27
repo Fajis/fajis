@@ -8,7 +8,7 @@
   <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 </p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/fajis" target="_blank">
+  <a href="https://buymeacoffee.com/fajisfajarl" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
   </a>
 </p>
