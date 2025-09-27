@@ -55,7 +55,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200" width="400"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&card_height=100" width="400"/></td>
+<td height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&card_height=100" width="400"/></td>
 </tr>
 </table>
 
