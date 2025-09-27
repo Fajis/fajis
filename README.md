@@ -27,7 +27,9 @@
   <a href="https://linkedin.com/in/fajispm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pmfajis@gmail.com" target="_blank">
+</p>
+<p>
+   <a href="mailto:pmfajis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
