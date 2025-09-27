@@ -77,6 +77,7 @@
 <!-- FUN QUOTE -->
 ### 💬 Fun Quote
 <p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 <i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
 </p>
 
