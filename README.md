@@ -7,7 +7,11 @@
 <p align="center">
   <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 </p>
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/fajis" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
+  </a>
+</p>
 <!-- LINE -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -41,12 +45,6 @@
   </a>
   <a href="https://live.talk4fun.net" target="_blank">
     <img src="https://img.shields.io/badge/Chat-live.talk4fun.net-FF6F61?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/fajis" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
   </a>
 </p>
 
