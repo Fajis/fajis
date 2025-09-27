@@ -19,7 +19,7 @@
 - ⚡ Fun Fact: I speak **Malayalam, English, Hindi (basics)**
 
 <!-- CONNECT -->
-### <img src="https://raw.githubusercontent.com/fajis/fajis/main/assets/connect.gif" width="30"/> Connect with me
+### 🔗 Connect with me
 <p align="center">
   <a href="https://twitter.com/fajispm" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -33,7 +33,7 @@
 </p>
 
 <!-- WEBSITES -->
-### <img src="https://c.tenor.com/dRzA1FQJ9xEAAAAC/website-gif.gif" width="30"/> Websites
+### 🌐 Websites
 <p align="center">
   <a href="https://fajis.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-fajis.is--a.dev-79A500?style=for-the-badge&logo=internet&logoColor=white"/>
@@ -44,7 +44,7 @@
 </p>
 
 <!-- TECH STACK -->
-### <img src="https://c.tenor.com/SwZAM2Z0w_YAAAAC/programmer-coding.gif" width="30"/> 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50"/>
@@ -62,7 +62,7 @@
 </p>
 
 <!-- GitHub Stats Section -->
-### <img src="https://c.tenor.com/pvVx7q2elg4AAAAC/github-gif.gif" width="30"/> 📊 GitHub Stats
+### 📈 GitHub Stats
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td style="border: none;">
@@ -75,7 +75,7 @@
 </table>
 
 <!-- FUN QUOTE -->
-### <img src="https://c.tenor.com/44ETG-mFJ1wAAAAC/quote-gif.gif" width="30"/>  💬 Fun Quote
+### 💬 Fun Quote
 <p align="center">
 <i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
 </p>
