@@ -92,11 +92,18 @@
   </picture>
 </p>
 <!-- FUN QUOTE -->
-### 💬 Fun Quote
 <p align="center">
-<i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="80%">
 </p>
-
+<p align="center">
+  <strong>💬 Fun Quote</strong>
+</p>
+<p align="center">
+  <i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="80%">
+</p>
 <!-- FOOTER ANIMATION -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
