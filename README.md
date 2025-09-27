@@ -15,7 +15,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"/> About Me
 - 🏦 Senior Software Engineer – Backend & Mobile Systems
 - 💻 Daily: **PHP, JavaScript, React Native, MySQL**
-- 🌱 Learning: **Zustand, TypeScript, Advanced React Native**
+- 🌱 Learning: **Redux, TypeScript, Advanced React Native**
 - ⚡ Fun Fact: I speak **Malayalam, English, Hindi (basics)**
 
 <!-- CONNECT -->
