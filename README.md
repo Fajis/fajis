@@ -16,15 +16,14 @@
 - 🏦 Senior Software Engineer – Backend & Mobile Systems
 - 💻 Daily: **PHP, JavaScript, React Native, MySQL**
 - 🌱 Learning: **Zustand, TypeScript, Advanced React Native**
-- 📖 Reading: *India After Gandhi* by Ramachandra Guha
-- ⚡ Fun Fact: I speak **Malayalam, Tamil, Arabic (basics)**
+- ⚡ Fun Fact: I speak **Malayalam, English, Hindi (basics)**
 
 <!-- CONNECT -->
 ### Connect with me
 <p align="center">
-<a href="https://twitter.com/your_twitter" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30"/></a>
-<a href="https://linkedin.com/in/your_linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>
-<a href="mailto:your_email@example.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="30" height="30"/></a>
+<a href="https://twitter.com/fajispm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30"/></a>
+<a href="https://linkedin.com/in/fajispm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>
+<a href="mailto:pmfajis@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="30" height="30"/></a>
 </p>
 
 <!-- TECH STACK -->
@@ -33,10 +32,18 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" width="50"/>
 </p>
 
 <!-- GITHUB STATS -->
