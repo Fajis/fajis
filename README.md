@@ -12,7 +12,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- ABOUT ME -->
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"/> About Me
+### 🧑‍💻 About Me
 - 🏦 Senior Software Engineer – Backend & Mobile Systems
 - 💻 Daily: **PHP, JavaScript, React Native, MySQL**
 - 🌱 Learning: **Redux, TypeScript, Advanced React Native**
