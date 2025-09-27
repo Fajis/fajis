@@ -1,6 +1,6 @@
 <!-- 👋 GREETING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Hi+there+%F0%9F%91%8B;I'm+Fajis+-+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Hi+there+%F0%9F%91%8B;Im+Fajis+-+Developer" />
 </p>
 
 <!-- FUN GIF -->
@@ -45,14 +45,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=dark&langs_count=6" />
 </p>
-
-<!-- LATEST BLOGS -->
-### 📝 Latest Blog Posts
-- [Building Resilient React Native Apps](#)
-- [PHP Tips for Backend Developers](#)
-- [Creating Dynamic Reports with MySQL](#)
-- [Using Zustand for State Management](#)
-
 <!-- FUN QUOTE -->
 ### 💬 Fun Quote
 <p align="center">
