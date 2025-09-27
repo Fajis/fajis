@@ -1,6 +1,6 @@
 <!-- 👋 GREETING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Hi+there+%F0%9F%91%8B;Im+Fajis;I+am+a+developer" onclick="return false;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Hi+there+%F0%9F%91%8B;Im+Fajis;I+am+a+developer"/>
 </p>
 
 <!-- FUN GIF -->
