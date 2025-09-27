@@ -54,25 +54,14 @@
 ### 📊 GitHub Stats
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200" width="400"/></td>
-<td height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&card_height=100" width="400"/></td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200&hide_border=true" width="400"/>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&card_height=200&hide_border=true" width="400"/>
+  </td>
 </tr>
 </table>
-
-<!-- Top Repos Pinned 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-1&theme=radical&border_color=79A500" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-2&theme=radical&border_color=79A500" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-3&theme=radical&border_color=79A500" width="32%" />
-</p>
--->
-<!-- Top Repos Pinned 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=fajis&theme=radical&border_color=79A500" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-2&theme=radical&border_color=79A500" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajis&repo=your-repo-3&theme=radical&border_color=79A500" width="32%" />
-</p>
--->
 <!-- FUN QUOTE -->
 ### 💬 Fun Quote
 <p align="center">
