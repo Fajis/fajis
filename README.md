@@ -69,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200&hide_border=true" width="400"/>
   </td>
   <td style="border: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&hide=Jupyter%20Notebook&card_height=50&hide_border=true" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="300"/>
   </td>
 </tr>
 </table>
