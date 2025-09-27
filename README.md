@@ -5,7 +5,7 @@
 
 <!-- FUN GIF -->
 <p align="center">
-<img src="[https://tenor.com/view/work-computer-gif-9810614](https://c.tenor.com/6Q7d3A4k2cEAAAAC/work-computer.gif)" height="240" width="370">
+<img src="https://c.tenor.com/6Q7d3A4k2cEAAAAC/work-computer.gif" height="240" width="370">
 </p>
 
 <!-- LINE -->
