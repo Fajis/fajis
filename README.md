@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Chat-live.talk4fun.net-FF6F61?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.buymeacoffee.com/fajis" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 10px; width: auto;">
   </a>
 </p>
 
