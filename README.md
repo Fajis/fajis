@@ -80,6 +80,12 @@
 </tr>
 </table>
 
+<!-- FUN QUOTE -->
+### 💬 Fun Quote
+<p align="center">
+<i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
+</p>
+
 <!-- GITHUB CONTRIBUTION SNAKE -->
 ### 🐍 GitHub Contribution Snake
 <p align="center">
@@ -88,11 +94,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-<!-- FUN QUOTE -->
-### 💬 Fun Quote
-<p align="center">
-<i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
 </p>
 
 <!-- FOOTER ANIMATION -->
