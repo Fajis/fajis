@@ -92,7 +92,7 @@
   </picture>
 </p>
 <!-- FUN QUOTE -->
-### 💬 Fun Quote
+<strong> 💬 Fun Quote </strong>
 <p align="center">
 <i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
 </p>
