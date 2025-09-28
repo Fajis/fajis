@@ -1,11 +1,15 @@
 <!-- 👋 GREETING -->
 <p align="center">
+  <picture>
   <img src="assets/svg/intro.svg"/>
+  </picture>
 </p>
 
 <!-- FUN GIF -->
 <p align="center">
+  <picture>
   <img src="assets/gif/rtj-rick-and-morty.gif" height="240" width="370">
+  </picture>
 </p>
 <p align="center">
   <a href="https://buymeacoffee.com/fajisfajarl" target="_blank">
@@ -13,7 +17,9 @@
   </a>
 </p>
 <!-- LINE -->
+<picture>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</picture>
 
 <!-- ABOUT ME -->
 ### 🧑‍💻 About Me
@@ -52,6 +58,7 @@
 <!-- TECH STACK -->
 ### 🛠️ Technologies & Tools
 <p align="center">
+  <picture>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50"/>
@@ -65,6 +72,7 @@
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50"/>
+  </picture>
 </p>
 
 <!-- GitHub Stats Section -->
@@ -72,10 +80,14 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td style="border: none;">
+    <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200&hide_border=true" width="400"/>
+    </picture>
   </td>
   <td style="border: none;">
+     <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="300"/>
+        </picture>
   </td>
 </tr>
 </table>
@@ -99,7 +111,7 @@
 
 <!-- FOOTER ANIMATION -->
 <p align="center">
-    <picture>
-<img src="assets/svg/footer.svg" width="100%"/>
-    </picture>
+  <picture>
+    <img src="assets/svg/footer.svg" width="100%"/>
+  </picture>
 </p>
