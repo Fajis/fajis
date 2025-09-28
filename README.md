@@ -1,15 +1,15 @@
 <!-- 👋 GREETING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Hi+there+%F0%9F%91%8B;Im+Fajis;I+am+a+developer"/>
+  <img src="assets/svg/intro.svg"/>
 </p>
 
 <!-- FUN GIF -->
 <p align="center">
-  <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+  <img src="assets/gif/rtj-rick-and-morty.gif" height="240" width="370">
 </p>
 <p align="center">
   <a href="https://buymeacoffee.com/fajisfajarl" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
+    <img src="assets/image/bmc.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
   </a>
 </p>
 <!-- LINE -->
@@ -86,9 +86,9 @@
 ### 🐍 GitHub Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/svg/github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/svg/github-light.svg">
+      <img alt="github contribution grid snake animation" src="assets/svg/github-light.svg">
   </picture>
 </p>
 <!-- FUN QUOTE -->
@@ -99,5 +99,5 @@
 
 <!-- FOOTER ANIMATION -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+<img src="assets/svg/footer.svg" width="100%"/>
 </p>
