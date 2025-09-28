@@ -99,5 +99,7 @@
 
 <!-- FOOTER ANIMATION -->
 <p align="center">
+    <picture>
 <img src="assets/svg/footer.svg" width="100%"/>
+    </picture>
 </p>
