@@ -80,9 +80,9 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td style="border: none;">
-    <!-- <picture> -->
+    <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_height=200&hide_border=true" width="400"/>
-    <!-- </picture> -->
+    </picture>
   </td>
   <td style="border: none;">
      <picture>
