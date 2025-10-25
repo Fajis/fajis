@@ -24,8 +24,8 @@
 <!-- ABOUT ME -->
 ### 🧑‍💻 About Me
 - 🏦 Full-Stack Software Developer – Backend & Mobile Systems
-- 💻 Daily: **PHP, JavaScript, React Native, MySQL**
-- 🌱 Learning: **Redux, TypeScript, Advanced React Native**
+- 💻 Daily: **React Native, PHP, JavaScript, MySQL**
+- 🧠 Skilled in: **Redux, TypeScript, Advanced React Native**
 - ⚡ Fun Fact: I speak **Malayalam, English, Hindi**
 
 <!-- CONNECT -->
