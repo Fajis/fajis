@@ -6,11 +6,11 @@
 </p>
 
 <!-- FUN GIF -->
-<p align="center">
+<!-- <p align="center">
   <picture>
   <img src="assets/gif/rtj-rick-and-morty.gif" height="240" width="370">
   </picture>
-</p>
+</p> -->
 <p align="center">
   <a href="https://buymeacoffee.com/fajisfajarl" target="_blank">
     <img src="assets/image/bmc.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
@@ -76,8 +76,8 @@
 </p>
 
 <!-- GitHub Stats Section -->
-### 📈 GitHub Stats
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<!-- ### 📈 GitHub Stats -->
+<!-- <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td style="border: none;">
     <picture>
@@ -90,7 +90,7 @@
      </picture>
   </td>
 </tr>
-</table>
+</table> -->
 
 
 
