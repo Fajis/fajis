@@ -11,11 +11,11 @@
   <img src="assets/gif/rtj-rick-and-morty.gif" height="240" width="370">
   </picture>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://buymeacoffee.com/fajisfajarl" target="_blank">
     <img src="assets/image/bmc.png" alt="Buy Me A Coffee" style="height: 50px; width: auto;">
   </a>
-</p>
+</p> -->
 <!-- LINE -->
 <picture>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
