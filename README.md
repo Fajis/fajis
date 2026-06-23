@@ -34,11 +34,11 @@
   <a href="https://twitter.com/fajispm" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/fajispm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
    <a href="mailto:pmfajis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/fajispm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
