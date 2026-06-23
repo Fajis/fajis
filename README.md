@@ -1,9 +1,9 @@
 <!-- 👋 GREETING -->
-<!-- <p align="center">
+<p align="center">
   <picture>
   <img src="assets/svg/intro.svg"/>
   </picture>
-</p> -->
+</p> 
 
 <!-- FUN GIF -->
 <p align="center">
