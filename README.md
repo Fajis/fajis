@@ -74,7 +74,7 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" style="margin: 5px;"/>
-<p>
+<p align="center">
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="320"/>
     </picture>
