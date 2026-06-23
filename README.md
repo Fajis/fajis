@@ -59,37 +59,34 @@
 
 
 <!-- TECH STACK -->
-### 🛠️ Technologies & Tools
+<!-- ### 🛠️ Technologies & Tools -->
 <p align="center">
-
 **Frontend**
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" style="margin: 5px;"/>
 </p>
 
-**Backend**
 <p align="center">
+**Backend**
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" style="margin: 5px;"/>
 </p>
 
-**Databases**
 <p align="center">
+**Databases**
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50" style="margin: 5px;"/>
 </p>
 
-**DevOps & Tools**
 <p align="center">
+  **DevOps & Tools**
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" style="margin: 5px;"/>
-</p>
 </p>
 
 <!-- GitHub Stats Section -->
