@@ -52,6 +52,9 @@
   <a href="https://live.talk4fun.net" target="_blank">
     <img src="https://img.shields.io/badge/Chat-live.talk4fun.net-FF6F61?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://xcodeplatform.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-xcodeplatform.com-79A500?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 
