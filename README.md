@@ -59,6 +59,7 @@
 
 
 <!-- TECH STACK -->
+### 🛠 Technologies & Tools
 <picture align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" style="margin: 5px;"/>
