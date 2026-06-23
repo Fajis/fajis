@@ -81,7 +81,7 @@
 <tr>
   <td style="border: none;">
     <picture>
-      <img src="https://github-readme-stats.vercel.app/api?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="350"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="320"/>
     </picture>
   </td>
   <td style="border: none;">
