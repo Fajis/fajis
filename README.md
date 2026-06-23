@@ -75,25 +75,13 @@
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" style="margin: 5px;"/>
 <p>
-<!-- GitHub Stats Section -->
-<!-- ### 📈 GitHub Stats  -->
-<!-- <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-<tr>
-  <td style="border: none;"> -->
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="320"/>
     </picture>
-  <!-- </td>
-  <td style="border: none;"> -->
      <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="300"/>
      </picture>
-  <!-- </td>
-</tr>
-</table> -->
-
-
-
+</p>
 <!-- GITHUB CONTRIBUTION SNAKE --> 
 <!-- ### 🐍 GitHub Contribution Snake  -->
 <p align="center">
