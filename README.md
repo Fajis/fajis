@@ -60,7 +60,7 @@
 
 <!-- TECH STACK -->
 ### 🛠 Technologies & Tools
-<picture align="center">
+<div align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50" style="margin: 5px;"/>
@@ -74,7 +74,7 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" style="margin: 5px;"/>
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" style="margin: 5px;"/>
-<picture>
+<div>
 <!-- GitHub Stats Section -->
 <!-- ### 📈 GitHub Stats  -->
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
