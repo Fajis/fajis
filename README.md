@@ -18,7 +18,7 @@
 </p>
 <!-- LINE -->
 <picture>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="assets/gif/rainbow.gif" height="20" width="100%">
 </picture>
 
 <!-- ABOUT ME -->
@@ -76,8 +76,8 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<!-- ### 📈 GitHub Stats -->
-<!-- <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<!-- ### 📈 GitHub Stats  -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td style="border: none;">
     <picture>
@@ -90,12 +90,12 @@
      </picture>
   </td>
 </tr>
-</table> -->
+</table>
 
 
 
-<!-- GITHUB CONTRIBUTION SNAKE -->
-### 🐍 GitHub Contribution Snake
+<!-- GITHUB CONTRIBUTION SNAKE --> 
+<!-- ### 🐍 GitHub Contribution Snake  -->
 <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/svg/github-dark.svg">
@@ -104,7 +104,7 @@
   </picture>
 </p>
 <!-- FUN QUOTE -->
-<strong> 💬 Fun Quote </strong>
+<!--  <strong> 💬 Fun Quote </strong>  -->
 <p align="center">
 <i>“Programming isn’t about what you know; it’s about what you can figure out.”</i>
 </p>
