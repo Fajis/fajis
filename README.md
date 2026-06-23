@@ -80,6 +80,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
   <td style="border: none;">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=fajis&show_icons=true&include_all_commits=true&theme=radical&card_height=200&hide_border=true" width="400"/>
     </picture>
