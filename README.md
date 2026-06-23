@@ -77,20 +77,20 @@
 <p>
 <!-- GitHub Stats Section -->
 <!-- ### 📈 GitHub Stats  -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<!-- <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
 <tr>
-  <td style="border: none;">
+  <td style="border: none;"> -->
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="320"/>
     </picture>
-  </td>
-  <td style="border: none;">
+  <!-- </td>
+  <td style="border: none;"> -->
      <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajis&layout=compact&theme=radical&langs_count=6&hide=&card_height=50&hide_border=true" width="300"/>
      </picture>
-  </td>
+  <!-- </td>
 </tr>
-</table>
+</table> -->
 
 
 
