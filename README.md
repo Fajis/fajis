@@ -61,7 +61,6 @@
 <!-- TECH STACK -->
 ### 🛠️ Technologies & Tools
 <p align="center">
-### 🛠 Technologies & Tools
 
 **Frontend**
 <p align="center">
@@ -90,6 +89,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="50" style="margin: 5px;"/>
+</p>
 </p>
 
 <!-- GitHub Stats Section -->
