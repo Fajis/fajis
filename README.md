@@ -46,12 +46,6 @@ At Harvard Capital Bahrain:
 
 iPhone versions are coming soon.
 
-### Sites
-
-- [fajis.is-a.dev](https://fajis.is-a.dev) — my website
-- [xcodeplatform.com](https://xcodeplatform.com) — my SaaS business, where I offer my services online
-- [live.talk4fun.net](https://live.talk4fun.net) — a live chat website
-
 ### Recent activity
 
 <!--START_SECTION:activity-->
