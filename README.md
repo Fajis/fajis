@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+websites+and+mobile+apps;React+Native+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+MySQL;Simple+code.+Fast+apps.+Happy+users." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+websites+and+mobile+apps;React+Native+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+MySQL;Simple+code.+Fast+apps.+Happy+users." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ I build the **server side** of apps (APIs and databases) and the **mobile apps**
   </tr>
   <tr>
     <td><img src="assets/icons/brain.svg" width="18" height="18" align="top"/> <b>Also good at</b></td>
-    <td>Redux · TypeScript · Laravel</td>
+    <td>Redux · TypeScript</td>
   </tr>
   <tr>
     <td><img src="assets/icons/languages.svg" width="18" height="18" align="top"/> <b>I speak</b></td>
@@ -62,7 +62,7 @@ I build the **server side** of apps (APIs and databases) and the **mobile apps**
     <td width="33%" valign="top">
       <h3 align="center"><img src="assets/icons/server.svg" width="28" height="28" align="top"/><br/>Backend</h3>
       <ul>
-        <li>Build APIs with PHP &amp; Laravel</li>
+        <li>Build APIs with PHP</li>
         <li>Build services with Node.js</li>
         <li>Design fast databases (MySQL, MongoDB)</li>
         <li>Speed things up with Redis</li>
@@ -103,7 +103,7 @@ I build the **server side** of apps (APIs and databases) and the **mobile apps**
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nodejs,laravel,redux,tailwind" alt="frameworks"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,redux,tailwind" alt="frameworks"/></td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
