@@ -154,13 +154,21 @@ I build the **server side** of apps (APIs and databases) and the **mobile apps**
 ## <img src="assets/icons/activity.svg" width="26" height="26" align="top"/> Recent Activity
 
 <!--START_SECTION:activity-->
-_Updating…_
+1. <img src="assets/icons/git-pull-request.svg" width="16" height="16" align="top"/> Merged PR [#2](https://github.com/Fajis/fajis/pull/2) in [Fajis/fajis](https://github.com/Fajis/fajis)
+2. <img src="assets/icons/git-pull-request.svg" width="16" height="16" align="top"/> Opened PR [#2](https://github.com/Fajis/fajis/pull/2) in [Fajis/fajis](https://github.com/Fajis/fajis)
+3. <img src="assets/icons/git-pull-request.svg" width="16" height="16" align="top"/> Merged PR [#1](https://github.com/Fajis/fajis/pull/1) in [Fajis/fajis](https://github.com/Fajis/fajis)
+4. <img src="assets/icons/git-pull-request.svg" width="16" height="16" align="top"/> Opened PR [#1](https://github.com/Fajis/fajis/pull/1) in [Fajis/fajis](https://github.com/Fajis/fajis)
+5. <img src="assets/icons/git-pull-request.svg" width="16" height="16" align="top"/> Merged PR [#1](https://github.com/Fajis/fajis.github.io/pull/1) in [Fajis/fajis.github.io](https://github.com/Fajis/fajis.github.io)
+6. <img src="assets/icons/git-pull-request.svg" width="16" height="16" align="top"/> Merged PR [#2](https://github.com/Fajis/fajis.github.io/pull/2) in [Fajis/fajis.github.io](https://github.com/Fajis/fajis.github.io)
 <!--END_SECTION:activity-->
 
 ## <img src="assets/icons/package.svg" width="26" height="26" align="top"/> Latest Repositories
 
 <!--START_SECTION:repos-->
-_Updating…_
+| Repository | Description | Language | Stars | Last push |
+| :-- | :-- | :-: | :-: | :-: |
+| [fajis.github.io](https://github.com/Fajis/fajis.github.io) | — | HTML | 1 | 2026-10-28 |
+| [res-box](https://github.com/Fajis/res-box) | — | — | 1 | 2025-11-16 |
 <!--END_SECTION:repos-->
 
 ---
@@ -204,7 +212,7 @@ _Updating…_
 </p>
 
 <!--START_SECTION:updated-->
-<p align="center"><sub><img src="assets/icons/bot.svg" width="14" height="14" align="top"/> This profile updates itself daily</sub></p>
+<p align="center"><sub><img src="assets/icons/bot.svg" width="14" height="14" align="top"/> This profile updates itself daily · Last refreshed: 28 Oct 2026, 21:01 UTC</sub></p>
 <!--END_SECTION:updated-->
 
 <!-- FOOTER -->
