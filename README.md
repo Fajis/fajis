@@ -11,7 +11,7 @@ I keep the code simple, so it is fast and easy to change later.
 
 ### Now
 
-- **Working** — Backend Developer at Harvard Soft Tech, Bahrain, since May 2023
+- **Working** — Backend Developer at Harvard Capital Bahrain, since May 2023
 - **Building** — updates to my Android apps
 - **Learning** — TypeScript, Redux, DevOps
 - **Open to** — freelance projects: business systems, mobile apps, integrations
@@ -27,7 +27,7 @@ I keep the code simple, so it is fast and easy to change later.
 
 ### Systems I've built
 
-At Harvard Soft Tech:
+At Harvard Capital Bahrain:
 
 - **Property management** — rental units, tenant leases, rent collection
 - **Car rental** — vehicle availability, bookings, maintenance
