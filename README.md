@@ -46,16 +46,14 @@ At Harvard Capital Bahrain:
 
 iPhone versions are coming soon.
 
-### Sites
-
-- [fajis.is-a.dev](https://fajis.is-a.dev) — my website
-- [xcodeplatform.com](https://xcodeplatform.com) — my SaaS business, where I offer my services online
-- [live.talk4fun.net](https://live.talk4fun.net) — a live chat website
-
 ### Recent activity
 
 <!--START_SECTION:activity-->
-_Updating…_
+- Merged PR [#3](https://github.com/Fajis/fajis/pull/3) in [Fajis/fajis](https://github.com/Fajis/fajis)
+- Opened PR [#3](https://github.com/Fajis/fajis/pull/3) in [Fajis/fajis](https://github.com/Fajis/fajis)
+- Merged PR [#2](https://github.com/Fajis/fajis/pull/2) in [Fajis/fajis](https://github.com/Fajis/fajis)
+- Opened PR [#2](https://github.com/Fajis/fajis/pull/2) in [Fajis/fajis](https://github.com/Fajis/fajis)
+- Merged PR [#1](https://github.com/Fajis/fajis/pull/1) in [Fajis/fajis](https://github.com/Fajis/fajis)
 <!--END_SECTION:activity-->
 
 <picture>
@@ -68,6 +66,6 @@ _Updating…_
 
 <sub>Before development I worked in sales and finance (2015–2023). MBA in Finance Management.
 <!--START_SECTION:updated-->
-This page updates itself every day.
+This page updates itself every day. Last update: 28 Oct 2026.
 <!--END_SECTION:updated-->
 </sub>
