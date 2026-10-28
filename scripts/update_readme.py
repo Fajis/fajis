@@ -22,36 +22,53 @@ def api(path):
         return json.load(resp)
 
 
+def icon(name, size=16):
+    return f'<img src="assets/icons/{name}.svg" width="{size}" height="{size}" align="top"/>'
+
+
 def describe(event):
+    # The events API trims payloads (e.g. PRs may lack html_url), so read everything defensively.
     repo = event["repo"]["name"]
-    link = f"[{repo}](https://github.com/{repo})"
-    p = event["payload"]
+    repo_url = f"https://github.com/{repo}"
+    link = f"[{repo}]({repo_url})"
+    p = event.get("payload") or {}
     kind = event["type"]
     if kind == "PushEvent":
-        n = p.get("size") or len(p.get("commits", [])) or 1
-        return f"🔨 Pushed {n} commit{'s' if n != 1 else ''} to {link}"
+        n = p.get("size") or len(p.get("commits") or []) or 1
+        return f"{icon('git-commit-horizontal')} Pushed {n} commit{'s' if n != 1 else ''} to {link}"
     if kind == "CreateEvent":
         if p.get("ref_type") == "repository":
-            return f"✨ Created repository {link}"
-        return f"🌿 Created {p.get('ref_type')} `{p.get('ref')}` in {link}"
+            return f"{icon('folder-plus')} Created repository {link}"
+        return f"{icon('git-branch')} Created {p.get('ref_type', 'ref')} `{p.get('ref')}` in {link}"
     if kind == "PullRequestEvent":
-        pr = p["pull_request"]
-        action = "Merged" if p["action"] == "closed" and pr.get("merged") else p["action"].capitalize()
-        return f"🔀 {action} PR [#{pr['number']}]({pr['html_url']}) in {link}"
+        pr = p.get("pull_request") or {}
+        num = pr.get("number") or p.get("number")
+        url = pr.get("html_url") or f"{repo_url}/pull/{num}"
+        action = (p.get("action") or "updated").capitalize()
+        if action == "Closed" and pr.get("merged"):
+            action = "Merged"
+        return f"{icon('git-pull-request')} {action} PR [#{num}]({url}) in {link}"
     if kind == "IssuesEvent":
-        issue = p["issue"]
-        return f"🐛 {p['action'].capitalize()} issue [#{issue['number']}]({issue['html_url']}) in {link}"
+        issue = p.get("issue") or {}
+        num = issue.get("number")
+        url = issue.get("html_url") or f"{repo_url}/issues/{num}"
+        return f"{icon('circle-dot')} {(p.get('action') or 'updated').capitalize()} issue [#{num}]({url}) in {link}"
     if kind == "IssueCommentEvent":
-        issue = p["issue"]
-        return f"💬 Commented on [#{issue['number']}]({p['comment']['html_url']}) in {link}"
+        issue = p.get("issue") or {}
+        num = issue.get("number")
+        url = (p.get("comment") or {}).get("html_url") or f"{repo_url}/issues/{num}"
+        return f"{icon('message-square')} Commented on [#{num}]({url}) in {link}"
     if kind == "ReleaseEvent":
-        return f"🚀 Released [{p['release']['tag_name']}]({p['release']['html_url']}) in {link}"
+        rel = p.get("release") or {}
+        tag = rel.get("tag_name", "a release")
+        url = rel.get("html_url") or f"{repo_url}/releases"
+        return f"{icon('tag')} Released [{tag}]({url}) in {link}"
     if kind == "WatchEvent":
-        return f"⭐ Starred {link}"
+        return f"{icon('star')} Starred {link}"
     if kind == "ForkEvent":
-        return f"🍴 Forked {link}"
+        return f"{icon('git-fork')} Forked {link}"
     if kind == "PublicEvent":
-        return f"🌍 Open-sourced {link}"
+        return f"{icon('globe')} Open-sourced {link}"
     return None
 
 
@@ -63,7 +80,10 @@ def recent_activity(limit=6):
         # Skip the bot commits this workflow makes to the profile repo.
         if event["type"] == "PushEvent" and event["repo"]["name"].lower() == f"{USER}/{USER}".lower():
             continue
-        text = describe(event)
+        try:
+            text = describe(event)
+        except (KeyError, TypeError, AttributeError):
+            continue
         if text and text not in lines:
             lines.append(text)
         if len(lines) == limit:
@@ -82,7 +102,7 @@ def latest_repos(limit=5):
         desc = (r["description"] or "—").replace("|", "\\|")
         lang = r["language"] or "—"
         pushed = r["pushed_at"][:10]
-        rows.append(f"| [{r['name']}]({r['html_url']}) | {desc} | {lang} | ⭐ {r['stargazers_count']} | {pushed} |")
+        rows.append(f"| [{r['name']}]({r['html_url']}) | {desc} | {lang} | {r['stargazers_count']} | {pushed} |")
         if len(rows) == limit:
             break
     if not rows:
@@ -106,7 +126,7 @@ def main():
     text = replace_section(text, "repos", latest_repos())
     text = replace_section(
         text, "updated",
-        f'<p align="center"><sub>🤖 This profile updates itself daily · Last refreshed: {now}</sub></p>',
+        f'<p align="center"><sub>{icon("bot", 14)} This profile updates itself daily · Last refreshed: {now}</sub></p>',
     )
     with open(README, "w", encoding="utf-8") as f:
         f.write(text)
