@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Fajis PM. I build websites, mobile apps and the systems behind them.">
+  <style>
+    .mono { font-family: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    .sans { font-family: Inter, ui-sans-serif, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="1200" height="300" rx="12" fill="#fafaf9"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="12" fill="none" stroke="#e4e4e1"/>
+  <text class="mono" x="56" y="68" font-size="18" fill="#555555">~/fajis</text>
+  <text class="mono" x="1144" y="68" font-size="18" fill="#555555" text-anchor="end">Bahrain · UTC+3</text>
+  <text class="sans" x="56" y="148" font-size="50" font-weight="600" fill="#111111" letter-spacing="-1">I build websites, <tspan fill="#b45309">mobile apps</tspan></text>
+  <text class="sans" x="56" y="210" font-size="50" font-weight="600" fill="#111111" letter-spacing="-1">and the systems behind them.<tspan class="cursor" fill="#b45309">_</tspan></text>
+  <text class="mono" x="56" y="258" font-size="16" fill="#555555">Fajis PM — PHP · React Native · MySQL</text>
+</svg>
