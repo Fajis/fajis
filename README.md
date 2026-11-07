@@ -49,9 +49,11 @@ iPhone versions are coming soon.
 ### Recent activity
 
 <!--START_SECTION:activity-->
+- Starred [ekimakes/unearth](https://github.com/ekimakes/unearth)
 - Pushed 1 commit to [Fajis/fajis.github.io](https://github.com/Fajis/fajis.github.io)
+- Created branch `claude/optimistic-bardeen-4jvtwm` in [Fajis/fajis](https://github.com/Fajis/fajis)
+- Created branch `claude/beautiful-knuth-qh78xj` in [Fajis/fajis.github.io](https://github.com/Fajis/fajis.github.io)
 - Merged PR [#4](https://github.com/Fajis/fajis/pull/4) in [Fajis/fajis](https://github.com/Fajis/fajis)
-- Opened PR [#4](https://github.com/Fajis/fajis/pull/4) in [Fajis/fajis](https://github.com/Fajis/fajis)
 <!--END_SECTION:activity-->
 
 <picture>
@@ -64,6 +66,6 @@ iPhone versions are coming soon.
 
 <sub>Before development I worked in sales and finance (2015–2023). MBA in Finance Management.
 <!--START_SECTION:updated-->
-This page updates itself every day. Last update: 06 Nov 2026.
+This page updates itself every day. Last update: 07 Nov 2026.
 <!--END_SECTION:updated-->
 </sub>
