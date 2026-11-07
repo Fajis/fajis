@@ -50,8 +50,6 @@ iPhone versions are coming soon.
 
 <!--START_SECTION:activity-->
 - Pushed 1 commit to [Fajis/fajis.github.io](https://github.com/Fajis/fajis.github.io)
-- Created branch `claude/optimistic-bardeen-4jvtwm` in [Fajis/fajis](https://github.com/Fajis/fajis)
-- Created branch `claude/beautiful-knuth-qh78xj` in [Fajis/fajis.github.io](https://github.com/Fajis/fajis.github.io)
 - Merged PR [#4](https://github.com/Fajis/fajis/pull/4) in [Fajis/fajis](https://github.com/Fajis/fajis)
 - Opened PR [#4](https://github.com/Fajis/fajis/pull/4) in [Fajis/fajis](https://github.com/Fajis/fajis)
 <!--END_SECTION:activity-->
